@@ -1,6 +1,8 @@
 # GARCH Modeling using B-TREASURY Data
 
-![GARCH Modeling using B-TREASURY Data](https://png.pngtree.com/thumb_back/fh260/back_our/20190622/ourmid/pngtree-blue-gradient-flat-space-planet-banner-background-image_229573.jpg)
+
+![Frame 2](https://user-images.githubusercontent.com/69972884/231636534-17ae497d-24ea-4693-97b3-06bc36e152ec.jpg)
+
 
 ## Overview
 
