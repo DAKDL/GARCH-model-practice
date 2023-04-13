@@ -1,7 +1,7 @@
 # GARCH Modeling using B-TREASURY Data
 
 
-![Frame 2](https://user-images.githubusercontent.com/69972884/231636534-17ae497d-24ea-4693-97b3-06bc36e152ec.jpg)
+![GARCH Modeling using B-TREASURY Data](https://user-images.githubusercontent.com/69972884/231636534-17ae497d-24ea-4693-97b3-06bc36e152ec.jpg)
 
 
 ## Overview
